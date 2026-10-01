@@ -3,5 +3,5 @@ public class HelloWorld {
         System.out.println("Hello Vitaly!");
         System.out.println("Fixing a bug!");
         System.out.println("Main update");
-    }
+
 }
